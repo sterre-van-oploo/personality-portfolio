@@ -1,0 +1,156 @@
+body {
+    background-color: #4d564c;
+    padding: 10px; 
+    position: relative;
+}
+
+
+/* BACKGROUNDS!!! */
+.main-title-bg{
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    background-color:#CDC8AF;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.guitar-bg{
+  position: absolute;
+  width: 140px;
+  height: 260px;
+  background-color:#CDC8AF;
+  border-radius: 40px;
+  color: #fff;
+  right: 460px;
+}
+
+.slideshow-bg{
+  position: absolute;
+  width: 420px;
+  height: 300px;
+  background-color:#CDC8AF;
+  border-radius: 40px;
+  color: #fff;
+  right: 176px;
+  top: 310px;
+}
+
+
+/* TEXT AND TITLE COVERS!!! */
+.main-title{
+  position: absolute;
+  width: 660px;
+  height: 120px;
+  background-color:#5a6659;
+  border-radius: 20px;
+  color: #f3efdc;
+  left: 30px;
+  top: 30px;
+}
+
+.main-text{
+  position: absolute;
+  width: 660px;
+  height: 330px;
+  background-color:#5a6659;
+  border-radius: 20px;
+  color: #f3efdc;
+  left: 30px;
+  top: 160px;
+}
+
+.main-song{
+  position: absolute;
+  width: 660px;
+  height: 50px;
+  background-color:#5a6659;
+  border-radius: 20px;
+  color: #f3efdc;
+  left: 30px;
+  top: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.guitar{
+    width: 120px;
+    height: 230px;
+    background-color:#CDC8AF;
+    border-radius: 40px;
+    color: #fff;
+} */
+
+/* html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #4D564C;
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    flex-direction: column;
+    font-family: monospace; 
+}
+
+  .container { 
+    display: flex;
+    }
+  .one {
+    background: orangered;
+    display: flex;
+    flex-direction: column;
+  }
+  /* .two {
+    color: #4d564c;
+    display: flex;
+    flex-direction: row;
+  } */
+  /* .oneA {
+    background: rgb(101, 138, 168);
+  }
+  .oneB {
+    background: rgb(4, 26, 44);
+  }
+  .container div {
+    font-size: 5vw;
+    padding: .5em;
+    color: white;
+    flex: 1;
+  } */
+
+/* * {
+    box-sizing: border-box;
+} */
+
+/* .content {
+    background: #CDC8AF;
+    height: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.content-2{
+    background: #4D564C;
+    height: 100%;
+    border-radius: 10px;
+    padding: 15px;
+}   */
+
